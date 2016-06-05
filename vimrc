@@ -49,7 +49,6 @@ colorscheme slate
 
 set noerrorbells
 
-
 nmap <leader>u :vsc File.TfsUndoCheckout<CR>
 nmap <leader>w :vsc File.CloseAllButThis<CR>
 

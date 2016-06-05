@@ -1,6 +1,6 @@
 "set background=dark
 "colorscheme solarized
-colorscheme gotham 
+"colorscheme gotham 
 
 set guifont=Consolas:h14:cANSI
 
